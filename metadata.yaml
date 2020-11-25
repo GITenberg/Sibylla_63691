@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '52545'
     url: http://www.gutenberg.org/2009/agents/52545
     wikipedia: https://fi.wikipedia.org/wiki/Fredrik_Joel_P%C3%A4ti%C3%A4l%C3%A4
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Feuillet, Octave
@@ -24,6 +27,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Octave_Feuillet
     - https://en.wikipedia.org/wiki/Octave_Feuillet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63691#Sibylla
 gutenberg_issued: '2020-11-09'
 gutenberg_type: Text
 identifiers:
